@@ -1,0 +1,64 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "98cd37bf5a50134a4919220b497b80d6ed3eec2004593708d462f56bf4231c0c"
+
+[[files]]
+file = "README.md"
+hash = "01d7c124582e418dfb6070b8958080e307e411ecb9f4c7386bf009bd1638154b"
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+hash = "e069d5130c543fdfe06368fe19a3a4877a2bd4cac471e622da057d8dca3851a8"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "8505c608ed1f1c176dcd03087d51abb87afff800942eeaa280773f37e7ea83de"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "1918aa326b46eb07df8cfcc173b089a55e0334336aa71ad3d211be90dfbe6616"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "e516d6d036f6d407a793c3b9a1fc5a8a817b05c9dc9d8677003fb0a512b2bf6f"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "9f55fb48200bbaaf53b27ac2af68be1e9e8f3ac6b42430e6bb4a2ef550772b52"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "ecb83c2fa2acb8ae445a0fbd573a05955038e7bf97f6d7bb6d2bdd98f082853d"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "96d722409350fa2998bcbaf71840f90df974a9ab29b1909db45867ccc827fef1"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0d539d8bad8493d4196bf5f7bf216d692384f283849fa41a2e5a816a0147673e"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "0212996355de904aa968661624fd9230d1b31d85b201b9ab01bb9e94ac0fe73c"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "c002016a5f28dd5264a6566f6a7a90f6b0a587ec067e4cc2828f5df077839a76"
+metafile = true

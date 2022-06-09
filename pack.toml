@@ -1,0 +1,13 @@
+name = "Talking Room Vanilla+"
+author = "VulgarBear"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c0adec8aad84172dc6e21b8f6b5092ebbc72f1bf586697c0776180d6e77d8ddc"
+
+[versions]
+fabric = "0.14.7"
+minecraft = "1.19"
