@@ -1,12 +1,12 @@
 name = "Talking Room Vanilla+"
 author = "VulgarBear"
-version = "1.1.0"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c84ce42c59af7702f7908578c533bd86308bd600639021fd853fb5b62fc2db94"
+hash = "874b05eaad7a37ac6bfe1b1b80a3656cb059cf3e44db47525b97bb9ecc448270"
 
 [versions]
 fabric = "0.14.7"

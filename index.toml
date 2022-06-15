@@ -43,11 +43,6 @@ hash = "23c82cc89e5e080d3ea3a56052708782ee511091c387ef09ff5870d0dcd98827"
 metafile = true
 
 [[files]]
-file = "mods/fwaystones.pw.toml"
-hash = "4ecc7ac46c147a6a232fdaf2c7c67f86f0bacf58ec8a1de6eef939784953a42b"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "e516d6d036f6d407a793c3b9a1fc5a8a817b05c9dc9d8677003fb0a512b2bf6f"
 metafile = true
@@ -64,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "1271b3155c1a8963896588f4af27684e117309c5cfab3e7e3dd55c24ded2a6d8"
+hash = "bde346e2b7d4e0e763186c9a8fceeac7b37cdeba1568d131e79f5e846659bffd"
 metafile = true
 
 [[files]]
