@@ -9,6 +9,15 @@ file = "README.md"
 hash = "01d7c124582e418dfb6070b8958080e307e411ecb9f4c7386bf009bd1638154b"
 
 [[files]]
+file = "images/Moustace Logo.png"
+hash = "b1311f69a0c7eb7bf8d67d702d5aba06614bc5af82df461192934e1aa76f134b"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "d27dd68fcef64c1bdab9d369958674a02428ef6df64e3b3882a013d7fde16be5"
+metafile = true
+
+[[files]]
 file = "mods/auth-me.pw.toml"
 hash = "e069d5130c543fdfe06368fe19a3a4877a2bd4cac471e622da057d8dca3851a8"
 metafile = true
@@ -24,8 +33,18 @@ hash = "8505c608ed1f1c176dcd03087d51abb87afff800942eeaa280773f37e7ea83de"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "848802e4af9c2e37ba369feb7568f694a4ce22c7b7414ecef6010b57a32fe3d1"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1918aa326b46eb07df8cfcc173b089a55e0334336aa71ad3d211be90dfbe6616"
+hash = "23c82cc89e5e080d3ea3a56052708782ee511091c387ef09ff5870d0dcd98827"
+metafile = true
+
+[[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "4ecc7ac46c147a6a232fdaf2c7c67f86f0bacf58ec8a1de6eef939784953a42b"
 metafile = true
 
 [[files]]
@@ -44,6 +63,11 @@ hash = "ecb83c2fa2acb8ae445a0fbd573a05955038e7bf97f6d7bb6d2bdd98f082853d"
 metafile = true
 
 [[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "1271b3155c1a8963896588f4af27684e117309c5cfab3e7e3dd55c24ded2a6d8"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "96d722409350fa2998bcbaf71840f90df974a9ab29b1909db45867ccc827fef1"
 metafile = true
@@ -56,6 +80,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "0212996355de904aa968661624fd9230d1b31d85b201b9ab01bb9e94ac0fe73c"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "726d82e7e2108aa952d159e281879d21b4e9356997198f203bcaf01cf0bf1f93"
 metafile = true
 
 [[files]]
